@@ -1,7 +1,7 @@
 ## Linky na stiahnutie
-Stiahnite si výsledky beamformingu a simulácie mikrofónového poľa na mega.nz: <br/>
-[Stiahnut 30 GB vysledkov pre prvych 1000 súborov](https://mega.nz/#F!TbolxCxC!q1KL4Lj02sqzdtuUSvz0ow). 
-Na uvedenom odkaze sa nachádzajú 2 priečinky. 
+Stiahnite si výsledky beamformingu a simulácie mikrofónového poľa na mega.nz: </br>
+[Stiahnuť 30 GB výsledkov pre prvých 1000 súborov](https://mega.nz/#F!TbolxCxC!q1KL4Lj02sqzdtuUSvz0ow). </br>
+Na uvedenom odkaze sa nachádzajú 2 priečinky. </br>
 Prvý je určený pre beamforming výsledky, </br>
 druhý je určený pre výsledky hlbokej neurónovej siete (všetky výsledky NS sú v priloženom DVD).</br>
 
